@@ -13,9 +13,11 @@
 6. Array
 7. Object
 
-*/ 
+*/
 
 
 // Var => do not use that.
-// const => it is use just fixed values, Can not change values.
-// let => it is change values any time.
+
+// const => it is use just fixed values, Can not change values. ==>> const n =10; but n =20; this change is not possible.
+
+// let => it is change values any time. ==>> let m = 70; then change m =60; you can change that it is possible.
