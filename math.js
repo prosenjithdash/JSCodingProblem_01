@@ -20,3 +20,24 @@ console.log(pi)
 
 const abs = Math.abs(5-30);
 console.log(abs)
+
+// rounded
+
+const round = Math.round(566.4333)
+console.log(round)
+
+// floor
+
+const floor = Math.floor(2.4333)
+console.log(floor)
+
+
+// ceil
+
+const ceil = Math.ceil(2.4333)
+console.log(ceil)
+
+// random
+
+const random = Math.random()
+console.log(random)
